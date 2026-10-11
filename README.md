@@ -30,6 +30,7 @@ A simple web app for registering and viewing student information.
 5. If not, the student is added and the table updates.
 
 ## screenshorts
+![studentinformation portal screenshot1](Screenshot_20261012_002150.png)
+![studentinformation portals screenshot2](Screenshot_20261012_002150.png)
 
-- D
   
